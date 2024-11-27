@@ -1,4 +1,4 @@
-![mc](https://github.com/user-attachments/assets/6ee7aab3-4db2-4064-9a64-e997a1e4669a)<svg width="409" height="144" viewBox="0 0 409 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="409" height="144" viewBox="0 0 409 144" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_10_18)">
 <mask id="mask0_10_18" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="144" height="144">
 <path d="M144 0H0V144H144V0Z" fill="white"/>
@@ -38,9 +38,9 @@
 </defs>
 </svg>
 
-![logo](https://github.com/user-attachments/assets/494b669f-f591-4520-9edc-c26e90a43b8f)
+![logo](https://github.com/user-attachments/assets/a590735f-a74a-4f28-b355-20638f2d35ec)
 
-![Up<svg width="326" height="58" viewBox="0 0 326 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="326" height="58" viewBox="0 0 326 58" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_10_73)">
 <path d="M10.4082 16.3176C10.4082 16.3609 12.1619 18.6734 14.3006 21.4629L18.193 26.5215L19.248 26.5648C22.1852 26.6949 28.2447 26.0445 30.583 25.3652C31.8377 24.9894 32.9355 24.498 32.9355 24.3101C32.9355 24.2523 27.8598 22.4168 21.6719 20.2199C15.4697 18.023 10.4082 16.2742 10.4082 16.3176Z" fill="white"/>
 <path d="M51.157 20.2777C45.0547 22.4457 40.0645 24.2523 40.0645 24.3101C40.0645 24.498 41.1623 24.9894 42.417 25.3652C44.7553 26.0445 50.8148 26.6949 53.7377 26.5648L54.807 26.5215L57.6301 22.8359C62.3922 16.6211 62.6061 16.332 62.4207 16.3465C62.3209 16.3465 57.2451 18.1097 51.157 20.2777Z" fill="white"/>
@@ -74,8 +74,8 @@
 </clipPath>
 </defs>
 </svg>
-loading mc.svg…]()
 
+![mc](https://github.com/user-attachments/assets/a29c66e2-907e-4826-9394-dd587fe47392)
 
 # TMAdmin Reborn
  - Новый интерфейс
